@@ -1,4 +1,4 @@
-#EXTM3U  sport
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="46" tvg-id="bein1" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/bein1.png?rev=8",beIN Sports HD1
 http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
