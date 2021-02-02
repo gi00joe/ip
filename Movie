@@ -120,9 +120,6 @@ https://cdn6.goprimetime.info/feed/LC24/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="zeenung" group-title="หนังและซีรีส์" tvg-logo="https://iptvthai.my.to/logo/zeenung.png?rev=8",ZEE หนัง
 https://cdn6.goprimetime.info/feed/LC5/index.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-id="crime" group-title="ความบันเทิง" tvg-logo="https://iptvthai.my.to/logo/Crime.png?rev=8",Crime & Investigation HD
-https://cdn6.goprimetime.info/feed/LC43/index.m3u8
-
 #EXTINF:-1 tvg-chno="62" tvg-id="starchinese" group-title="หนังและซีรีส์" tvg-logo="https://iptvthai.my.to/logo/starchinese.png?rev=8",Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 
