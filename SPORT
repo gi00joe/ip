@@ -1,0 +1,47 @@
+#EXTINF:-1 tvg-chno="46" tvg-id="bein1" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/bein1.png?rev=8",beIN Sports HD1
+http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="bein2" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/bein2.png?rev=8",beIN Sports HD2
+http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="premier1" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd1.png?rev=8",Premier HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-id="premier2" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd2.png?rev=8",Premier HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-id="premier3" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd3.png?rev=8",Premier HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-id="premier4" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd4.png?rev=8",Premier HD4
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-id="premier5" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd5.png?rev=8",Premier HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-id="assp" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/astro_supersport_my.png?rev=8",Astro SuperSport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-id="assp2" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/astro_supersport_my_2.png?rev=8",Astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-id="assp3" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/astro_supersport_my_3.png?rev=8",Astro SuperSport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-id="assp4" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/astro_supersport_my_4.png?rev=8",Astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-id="premier1" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd1.png?rev=8",Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-id="premier2" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd2.png?rev=8",Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="59" tvg-id="premier3" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd3.png?rev=8",Premier HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-id="premier1" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/premier_hd1.png?rev=8",Premier HD1
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-id="truesport2" group-title="SPORT" tvg-logo="https://iptvthai.my.to/logo/truesports2.png?rev=8",True Sports 2
+http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
