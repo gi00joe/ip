@@ -1,0 +1,125 @@
+{
+"name": "เธ•เธดเธ”เธ•เธฒเธก YOUTUBE@เนเธญเธเธ”เธฃเธญเธขเธ”เนเนเธญเธเธเธฃเธต",
+"author": "เน€เธเธตเธขเธเนเธ”เธข@เธเธฃเธฐเน€เธ—เธตเธขเธก เธชเธธเธฃเธดเธเธ—เธฃเน",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://docs.google.com/uc?export=download&id=1vD_hyXos9_pwXPDC_LxzRu_JKD6zJ4ne",
+"info": "เธเธญเธญเธขเนเธฒ Copy เน€เธเธทเนเธญเนเธซเนเน€เธเธตเธขเธฃเธ•เธดเธ•เธเน€เธญเธ เนเธฅเธฐ เธเธญเธเธญเธเธเธธเธ“เธญเธฒเธเธฒเธฃเธขเน @Silva @djpooga : Wiseplay Thailand Comunity",
+
+
+"groups": [
+
+{
+"name": "Thai TV",
+"image": "http://aosat.igetweb.com/article/art_42144142.png",
+"url": "https://docs.google.com/uc?export=download&id=1vlPKr_PeP_YxjoQhZqbFwegQwHCr06TH",
+"import": false
+},
+{
+"name": "Thai Truesports",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "https://docs.google.com/uc?export=download&id=1SCFepLVVRPWou_v-GmUsX-SqULSils1P",
+"import": false
+},
+{
+"name": "World Sports",
+"image": "https://www.freepnglogos.com/uploads/sport-png/sport-kids-hobby-store-shop-for-activity-kits-art-craft-35.png",
+"url": "https://docs.google.com/uc?export=download&id=16SKNHnlEcf2dD_2LjoU-NLeeRb3gtQB6",
+"import": false
+},
+{
+"name": "Documentery TV",
+"image": "https://cdn3.iconfinder.com/data/icons/landscape-7/128/8-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1KeXwtnTbEQdxTopQEDcJOzR8wCIQnpoM",
+"import": false
+},
+{
+"name": "Movies&Series TV",
+"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
+"url": "https://docs.google.com/uc?export=download&id=1-1L4yzygRd6WorS_ko9hvr_WmYhsAU2q",
+"import": false
+},
+{
+"name": "Kids TV",
+"image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
+"url": "https://docs.google.com/uc?export=download&id=1Ov6Z5wZMk2w2C2LIWLUZvCBUa94g0YmK",
+"import": false
+},
+{
+"name": "Asean TV",
+"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
+"url": "https://docs.google.com/uc?export=download&id=1ikUR3o3WXI6OHMw3c1v6wUWnS2edn14m",
+"import": false
+},
+{
+"name": "World News TV",
+"image": "https://cdn0.iconfinder.com/data/icons/Junior/256/Junior_Icon_04_2.png",
+"url": "https://docs.google.com/uc?export=download&id=1Vgb-ZUanI-TLR6DYMqfSIuRq4DZ4mBQf",
+"import": false
+},	
+{
+"name": "UK TV",
+"image": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-square-500.png",
+"url": "https://docs.google.com/uc?export=download&id=1RfnudRgfKrwx6KiCjaSxa2R-8YSW4-K4",
+"import": false
+},	
+{
+"name": "Test USA TV",
+"image": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-square-500.png",
+"url": "https://docs.google.com/uc?export=download&id=1edulHJTB_UpInfr3iAj2rRGEGEuM-KHu",
+"import": false
+},
+{
+"name": "Education On TV",
+"image": "https://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png",
+"url": "https://docs.google.com/uc?export=download&id=1Fc3fYeHXk7xHzjC6dnYSxTuV0iPaHjyR",
+"import": false
+},
+{
+"name": "World Music TV",
+"image": "https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Cassette-256.png",
+"url": "https://docs.google.com/uc?export=download&id=1X4CzTF3ZYfaaBMMSXD9dzBrvMCwGarBw",
+"import": false
+},
+{
+"name": "Big Cinema Movies",
+"image": "https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-94-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1otuHdK2VWH6VMqniTRH5sXd2lBbmbPmY",
+"import": false
+},
+{
+"name": "New Inter Movies",
+"image": "https://cdn1.iconfinder.com/data/icons/mixed-long-shadow-1/512/film-512.png",
+"url": "https://docs.google.com/uc?export=download&id=18X_gOhtcXhIZxxGH-bx8cbENRspS42c1",
+"import": false
+},
+{
+"name": "Thai Movies",
+"image":"https://cdn4.iconfinder.com/data/icons/international-circle-flags/480/thailand-thai-asian-country-flag-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1dRLwkqDIV36QxwlDH8ia6DBM47XqbdY_",
+"import": false
+},
+{
+"name": "Animation Movies",
+"image": "https://cdn2.iconfinder.com/data/icons/monster-v-2-1/512/MonsterV2-16-512.png",
+"url": "https://docs.google.com/uc?export=download&id=1H-8f88r3-rk_tQMEpCgy4JRgnQEOOLXU",
+"import": false
+},
+{
+"name": "Horror Movies",
+"image": "https://cdn0.iconfinder.com/data/icons/hallowen_linux/512/Skull.png",
+"url": "https://docs.google.com/uc?export=download&id=1xINu35IUp2hEH9vyONeJTqxF_D1frpCO",
+"import": false
+},
+{
+"name": "123Movies",
+"image": "https://techvibe.org/wp-content/uploads/2020/09/123Movies-1.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1X0KB8sMWXOHTjfDSFX1FjZq3ylwDsgOL",
+"import": false
+},
+
+
+
+
+	
+]
+}
